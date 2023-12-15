@@ -1,0 +1,32 @@
+.card {
+    width: 45%;
+    height: 40%;
+    border-radius: 8px;
+
+    background-color: #0756CF;
+
+    padding: 1.5%;
+}
+
+#card__header {
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+#card__name {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#card__mac {
+    font-size: 26px;
+    color: #FFFFFF80;
+}
+
+#card__body {
+    width: 100%;
+    height: 70%;
+    background-color: white;
+    border-radius: 5px;
+}
