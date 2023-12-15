@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import Sidebar from '../components/Sidebar';
 
 
 const Main = () => {
     const navigate = useNavigate();
     return (
         <>
-            <h1>Main page</h1>
+            <Sidebar />
             <button onClick={() => { navigate('/') }}>Login</button>
         </>
     )

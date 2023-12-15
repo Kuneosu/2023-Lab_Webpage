@@ -5,3 +5,7 @@
 - 리액트 틀 생성
 - Login Page CSS 스타일링 완료
 - Login Page, Main Page Page Routing
+
+## 2023/12/15
+메인 페이지 작업 시작
+- 사이드 바 CSS 스타일링 완료
