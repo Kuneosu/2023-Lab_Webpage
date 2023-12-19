@@ -9,6 +9,6 @@ body {
 
 #main__container {
     width: 1440px;
-    height: 1024px;
+    height: 100vh;
     display: flex;
 }

@@ -24,6 +24,10 @@ const MainCard = () => {
             <div id="maincard__items">
                 <Card />
                 <Card />
+                <Card />
+                <Card />
+                <Card />
+                <Card />
             </div>
         </div>
     );
