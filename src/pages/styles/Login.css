@@ -5,8 +5,15 @@
     margin: 0;
 }
 
+#login__body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #login__container {
-    margin: 20vh;
     width: 1000px;
     height: 700px;
     background-color: white;
