@@ -10,12 +10,12 @@ const Sidebar = () => {
             <div id="company__info">
                 <div id="company__logo"></div>
                 <div id="product__info">
-                    <div id="company">T/O Solution</div>
+                    <div id="company">TIO Solution</div>
                     <div id="product">실시간 배전반 관리 시스템</div>
                 </div>
             </div>
             <div id="side__menu">
-                <div className="menu__item" id="menu__item__1" onClick={() => navigate("/Main")}>
+                <div className="menu__item" id="isSelected" onClick={() => navigate("/Main")}>
                     실시간 배전반 현황
                 </div>
                 <div className="menu__item" id="menu__item__2" onClick={() => navigate("/Main")}>

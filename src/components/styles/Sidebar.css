@@ -101,6 +101,11 @@ body {
     font-weight: bold;
 }
 
+#isSelected {
+    background-color: #0040BC;
+    font-weight: bold;
+}
+
 /*------------- sidebar menu item -------------*/
 
 #logout__button {

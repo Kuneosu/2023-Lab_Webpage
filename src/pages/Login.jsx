@@ -9,7 +9,7 @@ const Login = () => {
             <div id="login__container">
                 <div className="login__wrapper" id="wrapper__left">
                     <div id="login__header">
-                        <span id="company__name">T/O Solution</span>
+                        <span id="company__name">TIO Solution</span>
                         <span id="product__name">실시간 배전반 관리 시스템</span>
                         <span id="login__title">Login to your Account</span>
                     </div>
